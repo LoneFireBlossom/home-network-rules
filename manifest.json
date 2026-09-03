@@ -43,7 +43,8 @@
         "xiaohongshu.cn",
         "xiaohongshu.net",
         "xingin.net",
-        "zztfly.com"
+        "zztfly.com",
+        "home-network-rules-test-marker.example"
       ],
       "exclude": [
         "rednote.com.my"
