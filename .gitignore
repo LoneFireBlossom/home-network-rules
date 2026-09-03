@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# 运行时本地状态：只在实际运行生成器的机器上产生，不进版本库。
+# baseline是启动本管线时固化的基线，需要随仓库分发，单独放行。
+state/*
+!/state/baseline-direct-domains.txt
+
+# 本地退役归档，不进版本库。
+/retired/

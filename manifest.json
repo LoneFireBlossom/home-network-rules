@@ -1,0 +1,73 @@
+{
+  "schema_version": 2,
+  "general_direct": {
+    "id": "loyalsoldier-direct",
+    "urls": [
+      "https://testingcf.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt",
+      "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt"
+    ],
+    "min_count": 100000,
+    "max_count": 130000,
+    "max_new_per_run": 5000,
+    "exclude": []
+  },
+  "services": {
+    "xiaohongshu": {
+      "display_name": "小红书／RedNote",
+      "source_note": "上游：MetaCubeX geosite:xiaohongshu；本地增删：manifest.json",
+      "urls": [
+        "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/xiaohongshu.yaml",
+        "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/xiaohongshu.yaml"
+      ],
+      "min_count": 8,
+      "max_count": 200,
+      "canary": "www.xiaohongshu.com",
+      "include": [
+        "cdnxhs.com",
+        "fengkongcloud.com",
+        "redbascket.com",
+        "rednote.life",
+        "xhs.cn",
+        "xhscdn.cn",
+        "xhsdns.com",
+        "xhsdns.net",
+        "xhslink.cn",
+        "xhsos.com",
+        "xhsredcdn.com",
+        "xhssys.cn",
+        "xhssys.com",
+        "xhssys.net",
+        "xhsurl.cn",
+        "xhsurl.com",
+        "xiaohongshu-mycdn.com",
+        "xiaohongshu.cn",
+        "xiaohongshu.net",
+        "xingin.net",
+        "zztfly.com"
+      ],
+      "exclude": [
+        "rednote.com.my"
+      ]
+    },
+    "douyin": {
+      "display_name": "抖音",
+      "source_note": "上游：MetaCubeX geosite:douyin；本地增删：manifest.json",
+      "urls": [
+        "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/douyin.yaml",
+        "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/douyin.yaml"
+      ],
+      "min_count": 50,
+      "max_count": 300,
+      "canary": "www.douyin.com",
+      "include": [],
+      "exclude": []
+    }
+  },
+  "distribution": {
+    "repo": "LoneFireBlossom/home-network-rules",
+    "branch": "main",
+    "managed_rules_path": "generated/managed-direct-domains.txt",
+    "surge_ruleset_path": "generated/surge-direct-services.list",
+    "purge_base_url": "https://purge.jsdelivr.net/gh"
+  }
+}
