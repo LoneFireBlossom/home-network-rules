@@ -342,7 +342,6 @@ domain:hnyytech.com
 domain:hoaihe.store
 domain:hoatia.com
 domain:hogci.com
-domain:home-network-rules-test-marker.example
 domain:hongshu18.com
 domain:hootnews.site
 domain:hooxz.com
