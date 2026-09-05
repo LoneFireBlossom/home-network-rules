@@ -1,16 +1,20 @@
+domain:09izf.com
 domain:101212.com
 domain:121034.com
 domain:123312.com
 domain:123795.com
 domain:123clouddisk.com
 domain:123clouddrive.net
+domain:137542.club
 domain:163you.net
 domain:168.com
 domain:16ik.com
+domain:180k.com
 domain:198274.com
 domain:1cxb.com
 domain:1fly.fun
 domain:1kanshu.cc
+domain:1zidc.com
 domain:2288job.com
 domain:2424ph.com
 domain:248ker.com
@@ -25,6 +29,7 @@ domain:44nc.com
 domain:4c44.com
 domain:502.ai
 domain:502fakw.com
+domain:508.im
 domain:50zw.com
 domain:51livetv.com
 domain:51mowan.com
@@ -97,6 +102,7 @@ domain:airizu.com
 domain:aixzzs.com
 domain:aiyfhdns.com
 domain:aiyoubucuo.com
+domain:alidnsv122.com
 domain:aliyunddos0028.com
 domain:amemv.cn
 domain:amemv.com
@@ -110,6 +116,7 @@ domain:arknightsframeassistant.com
 domain:arkrog.com
 domain:arshow.com
 domain:askdiandian.com
+domain:ataokeji.com
 domain:autosemo.com
 domain:awemeughun.com
 domain:awemeuglang.com
@@ -130,6 +137,7 @@ domain:bdagh.com
 domain:bee-link.com
 domain:beijingtianqi114.com
 domain:beijqunan.com
+domain:beimokj.com
 domain:beiqian.fun
 domain:belleintl.com
 domain:benfeijd.com
@@ -141,7 +149,9 @@ domain:bigemap.net
 domain:bilibilitoy.com
 domain:bim.fashion
 domain:bkd898.com
+domain:bkwsq.com
 domain:blipsandchitz.me
+domain:bms28.xyz
 domain:bookgew.com
 domain:bowenkj.com
 domain:boxdouyin.com
@@ -150,10 +160,12 @@ domain:bsstar.net
 domain:btv2011.com
 domain:buluken.com
 domain:buyang.com
+domain:byfscl.xyz
 domain:c-nbh.com
 domain:ca-sinfusi.com
 domain:camelotdogkennels.com
 domain:cangjie-lang.net
+domain:canhui.xyz
 domain:captainbi.com
 domain:careforbaby.com
 domain:catv888.com
@@ -205,6 +217,7 @@ domain:crntt.com
 domain:crrcgo.cc
 domain:csgholding.com
 domain:csydkj.com
+domain:cuncc.cc
 domain:czsvip.com
 domain:czyzd.com
 domain:czzyv.com
@@ -225,6 +238,7 @@ domain:diandianlife.top
 domain:dingyunwl.com
 domain:diqcdbc.com
 domain:dircleaner.com
+domain:distinctech.com
 domain:diybuy.net
 domain:dnbiz.com
 domain:doubaninfo.com
@@ -406,6 +420,7 @@ domain:inforamz.com
 domain:inlaylink.net
 domain:inovance.com
 domain:inte.net
+domain:intonead.com
 domain:intvolunteer.com
 domain:ir56.com
 domain:ishanin.com
@@ -451,6 +466,7 @@ domain:kfcccc.com
 domain:kincony.com
 domain:kiwiot.com
 domain:kkjishu.com
+domain:kkmm.com
 domain:kmaosmart.com
 domain:kmksy.com
 domain:koebpmhcce.com
@@ -550,6 +566,7 @@ domain:phqjsw.com
 domain:pingzicloudcdn.com
 domain:pinhxd.com
 domain:pinshuxsw.com
+domain:power-z.com
 domain:ppkankan01.com
 domain:ppt28.com
 domain:pqxz.com
@@ -592,6 +609,7 @@ domain:ratetend.com
 domain:rayootech.com
 domain:redbascket.com
 domain:redelight.cn
+domain:redmid.com
 domain:rednote.com
 domain:rednote.life
 domain:rednotecdn.com
@@ -674,7 +692,9 @@ domain:tantanscience.com
 domain:tantu668.com
 domain:taoci10.com
 domain:tapnow.media
+domain:tbtk.asia
 domain:tehlin-bj.com
+domain:tencentbuddy.com
 domain:tencentedge.com
 domain:tenfu.com
 domain:terrabbs.ink
@@ -702,6 +722,7 @@ domain:tsbear.com
 domain:tsgaosu.com
 domain:tsinghua-tj.org
 domain:tslnqfzxx.com
+domain:tsuiyuan.com
 domain:ttvod.net
 domain:tucenb.com
 domain:tuxingis.com
@@ -728,6 +749,7 @@ domain:vip-cdn.com
 domain:viwei.com
 domain:vpsjyz.com
 domain:vx.com
+domain:vxni.ink
 domain:w0028.cc
 domain:wangonglue.com
 domain:wangsu8.com
@@ -749,6 +771,7 @@ domain:woaidiaoyu.com
 domain:woaihuoshan.com
 domain:wohst8.com
 domain:word2txt.com
+domain:workbuddy.link
 domain:woxshare.com
 domain:wpbattery.com
 domain:wrilab.com
@@ -756,11 +779,13 @@ domain:wuhetumu.com
 domain:wuxituozhan.com
 domain:wuying.com
 domain:wxfuyou.com
+domain:x-dao.io
 domain:xa-junxu.com
 domain:xabaoan.com
 domain:xaklkx.com
 domain:xay.zone
 domain:xaykxx.com
+domain:xcvpn.app
 domain:xcvpn.com
 domain:xde538.com
 domain:xhs.cn
@@ -794,6 +819,7 @@ domain:xiaojiyun.com
 domain:xiaoyuan888.com
 domain:xiaoyueyun.com
 domain:xiaozhenwaimai.com
+domain:xingcheclub.com
 domain:xingin.net
 domain:xingzuobaike.com
 domain:xinkailawyer.com
@@ -842,6 +868,7 @@ domain:yihaisoft.com
 domain:yikao88.com
 domain:yingshi.dog
 domain:yingtailaw.com
+domain:yinkead.com
 domain:yizuren.com
 domain:yjsyy.com
 domain:ymy9.com
@@ -866,6 +893,7 @@ domain:yw70.com
 domain:yyhxps.com
 domain:yzfcw.com
 domain:zcanjia.com
+domain:zcpin.com
 domain:zengyuanfen.com
 domain:zgc-blockchain.com
 domain:zgjia.com
@@ -891,6 +919,7 @@ domain:zsznz.com
 domain:zxc123zxc123.xyz
 domain:zyktech.com
 domain:zyyct.com
+domain:zzimti.com
 domain:zzqrgs3148.vip
 domain:zzr.cc
 domain:zztfly.com
