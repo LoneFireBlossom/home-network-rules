@@ -67,6 +67,7 @@ class RuleCompilerTests(unittest.TestCase):
                         "exclude": ["rednote.com.my"],
                     }
                 },
+                "canaries": {"proxy": ["chatgpt.com"]},
             }
             compiled = update_rules.compile_rules(manifest, root, fixture)
             self.assertIn("domain:new.example", compiled["accumulated"])

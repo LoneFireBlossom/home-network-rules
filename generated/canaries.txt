@@ -1,0 +1,4 @@
+direct sns-webpic-qc.xhscdn.com
+direct www.douyin.com
+proxy chatgpt.com
+proxy www.xiaohongshu.com

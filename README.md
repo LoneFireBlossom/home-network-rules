@@ -13,6 +13,15 @@ MetaCubeX geosite的小红书／RedNote与抖音）与本地增删规则合并�
   RULE-SET,https://testingcf.jsdelivr.net/gh/LoneFireBlossom/home-network-rules@main/generated/surge-direct-services.list,DIRECT,update-interval=43200
   ```
 
+- `generated/managed-proxy-domains.txt`与`generated/surge-proxy-services.list`——
+  `manifest.json`的`forced_proxy.domains`列出的后缀：这些域名（含全部子域）一律
+  交给代理支，并从上面两份直连产物中剔除。mosdns把它作为优先于直连表的
+  `domain_set`；Surge消费方把它以`Proxy`策略引用，且必须排在直连规则集那一行之前。
+- `generated/canaries.txt`——消费方换完规则后的自检清单，每行`direct <域名>`或
+  `proxy <域名>`：`direct`项应解析出真实地址，`proxy`项应解析出fake IP。域名与
+  期望都来自`manifest.json`（各服务的`canary`、`forced_proxy.canary`、
+  `canaries.proxy`），消费方照单检查，不自己维护域名清单。
+
 产物只承载域名，不含任何本地网络信息（局域网地址、主机名、密钥、令牌）。
 
 ## 输入
@@ -62,9 +71,11 @@ PYTHONPATH=. python3 -m unittest discover -s tests -v
 ## 消费方
 
 - 两台mosdns各自维护自己的定时拉取、校验、原子替换、重启与回滚，不由本仓库
-  触达；它们只从`generated/managed-direct-domains.txt`的jsdelivr镜像地址拉取。
-- Surge侧模块只用一行`RULE-SET`静态引用`generated/surge-direct-services.list`
-  的jsdelivr镜像地址，按`update-interval`自行刷新；不由本仓库或生成器写入。
+  触达；它们从jsdelivr镜像拉取`managed-direct-domains.txt`、`managed-proxy-domains.txt`
+  与`canaries.txt`三份，按`canaries.txt`自检。
+- Surge侧模块用两行`RULE-SET`静态引用`surge-proxy-services.list`（`Proxy`，在前）与
+  `surge-direct-services.list`（`DIRECT`，在后）的jsdelivr镜像地址，按`update-interval`
+  自行刷新；不由本仓库或生成器写入。
 
-本仓库与生成器只负责编译与发布这两份产物；谁在什么频率、以什么方式消费它们，
+本仓库与生成器只负责编译与发布这些产物；谁在什么频率、以什么方式消费它们，
 是消费方自己的运维范畴。

@@ -813,7 +813,6 @@ domain:xiaochenbaoku.com
 domain:xiaochi7.com
 domain:xiaohongshu-mycdn.com
 domain:xiaohongshu.cn
-domain:xiaohongshu.com
 domain:xiaohongshu.net
 domain:xiaojiyun.com
 domain:xiaoyuan888.com

@@ -21,7 +21,7 @@
       ],
       "min_count": 8,
       "max_count": 200,
-      "canary": "www.xiaohongshu.com",
+      "canary": "sns-webpic-qc.xhscdn.com",
       "include": [
         "cdnxhs.com",
         "fengkongcloud.com",
@@ -63,11 +63,27 @@
       "exclude": []
     }
   },
+  "forced_proxy": {
+    "note": "命中这些后缀（含全部子域）的域名一律交给代理支：mosdns转mini的fake DNS、Surge走Proxy组；并从全部直连产物中剔除。小红书接口服务器对家庭宽带公网IP限速，接口经mini的代理出口访问；图片视频CDN域名（xhscdn.com）不在此列，照旧直连。",
+    "domains": [
+      "xiaohongshu.com"
+    ],
+    "canary": "www.xiaohongshu.com"
+  },
+  "canaries": {
+    "note": "消费方换完规则后的自检：proxy项必须解析出fake IP（证明代理支活着）。各服务的direct项见services.*.canary。",
+    "proxy": [
+      "chatgpt.com"
+    ]
+  },
   "distribution": {
     "repo": "LoneFireBlossom/home-network-rules",
     "branch": "main",
     "managed_rules_path": "generated/managed-direct-domains.txt",
     "surge_ruleset_path": "generated/surge-direct-services.list",
-    "purge_base_url": "https://purge.jsdelivr.net/gh"
+    "purge_base_url": "https://purge.jsdelivr.net/gh",
+    "managed_proxy_rules_path": "generated/managed-proxy-domains.txt",
+    "surge_proxy_ruleset_path": "generated/surge-proxy-services.list",
+    "canaries_path": "generated/canaries.txt"
   }
 }
