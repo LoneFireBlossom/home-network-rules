@@ -70,6 +70,14 @@
     ],
     "canary": "www.xiaohongshu.com"
   },
+  "blocked": {
+    "note": "命中这些后缀（含全部子域）的域名一律拒绝解析：mosdns回NXDOMAIN、Surge走REJECT；并从全部直连与强制代理产物中剔除。用途：堵国内App的HTTPDNS自家接口，让它们退回系统DNS。腾讯HTTPDNS的119.29.29.88/90两个IP由路由器防火墙拒绝80/443，不进本管线（119.29.29.29是mosdns兜底上游，不得连带）。",
+    "domains": [
+      "gslb.xiaohongshu.com",
+      "mediacloud.xiaohongshu.com"
+    ],
+    "canary": "gslb.xiaohongshu.com"
+  },
   "canaries": {
     "note": "消费方换完规则后的自检：proxy项必须解析出fake IP（证明代理支活着）。各服务的direct项见services.*.canary。",
     "proxy": [
@@ -84,6 +92,8 @@
     "purge_base_url": "https://purge.jsdelivr.net/gh",
     "managed_proxy_rules_path": "generated/managed-proxy-domains.txt",
     "surge_proxy_ruleset_path": "generated/surge-proxy-services.list",
+    "managed_blocked_rules_path": "generated/managed-blocked-domains.txt",
+    "surge_blocked_ruleset_path": "generated/surge-blocked-services.list",
     "canaries_path": "generated/canaries.txt"
   }
 }

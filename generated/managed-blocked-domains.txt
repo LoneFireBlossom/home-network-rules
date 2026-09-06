@@ -1,0 +1,2 @@
+domain:gslb.xiaohongshu.com
+domain:mediacloud.xiaohongshu.com
