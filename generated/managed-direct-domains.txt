@@ -895,6 +895,7 @@ domain:youzhi.com
 domain:yqt365.com
 domain:ysdaima.com
 domain:ysdp.online
+domain:yuanqidesk.com
 domain:yuantk.com
 domain:yueyitingxin.com
 domain:yun.wtf
