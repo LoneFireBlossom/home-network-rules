@@ -672,6 +672,7 @@ domain:sinopharm-yz.com
 domain:sinothaizone.com
 domain:sisiim.com
 domain:sjez.com
+domain:sjfls6.com
 domain:skktec.com
 domain:skr003.cc
 domain:sktqkf.com
@@ -951,3 +952,4 @@ domain:zzqrgs3148.vip
 domain:zzr.cc
 domain:zztfly.com
 domain:zzzmap.com
+full:drivers.amd.com
