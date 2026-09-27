@@ -349,6 +349,7 @@ domain:dircleaner.com
 domain:distinctech.com
 domain:diybuy.net
 domain:djhdhs.us
+domain:djsnm.app
 domain:dm84.tv
 domain:dnbiz.com
 domain:dnsjxla.com
@@ -792,6 +793,7 @@ domain:mljjs01.com
 domain:modaiyun.com
 domain:model111.xin
 domain:mojiangshuyuan.com
+domain:monsterhunteroutlanders.com
 domain:mooho.cloud
 domain:mora.fun
 domain:mrtdephoto.net
@@ -1011,6 +1013,7 @@ domain:sochua.com
 domain:soft711.com
 domain:sok100.com
 domain:sorstek.com
+domain:soulharbor.work
 domain:soupng.com
 domain:sourongjie.com
 domain:southteacher.com
@@ -1056,6 +1059,7 @@ domain:taoci10.com
 domain:tapnow.art
 domain:tapnow.media
 domain:tbtk.asia
+domain:tcdns74.com
 domain:tehlin-bj.com
 domain:tencentbuddy.com
 domain:tencentedge.com
@@ -1098,6 +1102,7 @@ domain:tucenb.com
 domain:tuielf.com
 domain:tuielf.vip
 domain:tuohai.xyz
+domain:tuquge.com
 domain:tuxingis.com
 domain:tvhcoin.ai
 domain:twb520.com
@@ -1305,6 +1310,7 @@ domain:yew734.com
 domain:yewcdn.com
 domain:yfa399.com
 domain:yfhcname2.com
+domain:yghy123.com
 domain:yhans.com
 domain:yibanbianji.com
 domain:yichenlawfirm.com
@@ -1371,6 +1377,7 @@ domain:zgc-blockchain.com
 domain:zgjia.com
 domain:zgjsfz.com
 domain:zhaiad.com
+domain:zhangdkl.asia
 domain:zhanghaolei.com
 domain:zhennongwang.com
 domain:zhihenglawyer.com
