@@ -161,6 +161,7 @@ domain:ahtkg.com
 domain:ahtxxh.com
 domain:ahzypipe.com
 domain:aibangnihuan.com
+domain:aibilun.com
 domain:aidunwaf.com
 domain:aidxjqr.com
 domain:aifortmix.com
@@ -180,6 +181,7 @@ domain:ajupf.com
 domain:ajzjfc.com
 domain:alidnsv122.com
 domain:aliyunddos0028.com
+domain:alizch.com
 domain:alizzy.com
 domain:alliker.net
 domain:allptt.com
@@ -333,6 +335,7 @@ domain:cdttp.com
 domain:cdxnfk.com
 domain:cdyl1.com
 domain:cehuajn.com
+domain:cfdns46.com
 domain:cfdns81.com
 domain:cfscrm.com
 domain:cgivz.com
@@ -384,6 +387,7 @@ domain:co99.net
 domain:coalmo.com
 domain:code-relay.com
 domain:code.fun
+domain:codebuddy.ai
 domain:codesana.com
 domain:cookicut.com
 domain:cool-pi.com
@@ -448,6 +452,7 @@ domain:dm84.tv
 domain:dnbiz.com
 domain:dnsjp.cc
 domain:dnsjxla.com
+domain:dnski.com
 domain:dong-ning.com
 domain:dongyouyuzhou.com
 domain:doprh.com
@@ -922,6 +927,7 @@ domain:leadweigh.com
 domain:lehuhuade.com
 domain:lemonwang.com
 domain:letaohuo.com
+domain:lewl88.com
 domain:leyun.cm
 domain:liangcaisz.com
 domain:liezhua.com
@@ -1096,6 +1102,7 @@ domain:pantonecn.com
 domain:par656.com
 domain:pawobo.com
 domain:pc28.ai
+domain:pcelves.com
 domain:pcwatch.com
 domain:pdf001.com
 domain:php-asp.net
@@ -1158,6 +1165,7 @@ domain:qjj867.com
 domain:qjsekq.com
 domain:qjxns.com
 domain:qk01.cc
+domain:qlgfdns.com
 domain:qlyfhdns.com
 domain:qmpx.net
 domain:qqmaoyi.com
@@ -1503,6 +1511,7 @@ domain:wobwxe.com
 domain:wodejiuyema.com
 domain:wohst8.com
 domain:word2txt.com
+domain:workbuddy.ai
 domain:workbuddy.host
 domain:workbuddy.link
 domain:woxshare.com
