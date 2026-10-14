@@ -51,6 +51,7 @@ domain:4006242315.com
 domain:400980.com
 domain:404k.vip
 domain:4399dev.com
+domain:4399houtai.com
 domain:44nc.com
 domain:4c44.com
 domain:502.ai
@@ -63,6 +64,7 @@ domain:51mowan.com
 domain:51poca.com
 domain:51usz.com
 domain:51wan.com
+domain:51zjb.com
 domain:520.skin
 domain:521000.com
 domain:52rnb.com
@@ -471,6 +473,7 @@ domain:douyinpay.com
 domain:douyinpic.com
 domain:douyinstatic.com
 domain:douyinvod.com
+domain:dpafmp641.vip
 domain:dpweixin.com
 domain:drv-haute42.com
 domain:dsers.com
@@ -536,6 +539,7 @@ domain:fmsign.com
 domain:fnrrc.com
 domain:fnspeed.net
 domain:founderyt.com
+domain:frp-web.com
 domain:frrcw.com
 domain:frxkjyxgs.xyz
 domain:fsifurniture.com
@@ -553,6 +557,8 @@ domain:fx666.cc
 domain:fyhbxh.com
 domain:fykxjs.com
 domain:fzedu.pub
+domain:gamer520.fan
+domain:gamer520.wiki
 domain:gaomaipharma.com
 domain:gclawyer.net
 domain:gcyvm.com
@@ -678,6 +684,7 @@ domain:hnzjyw.com
 domain:hoaihe.store
 domain:hoatia.com
 domain:hogci.com
+domain:hongguoduanju.com
 domain:hongshu18.com
 domain:hongyanyanbaihuo.online
 domain:honorindustrial.com
@@ -729,6 +736,7 @@ domain:huoshanzhibo.com
 domain:huoshanzhibo.net
 domain:hwyzhy008.com
 domain:hxkchips.com
+domain:hxkjtop.com
 domain:hy57.com
 domain:hycdn.cc
 domain:hydcn.com
@@ -750,6 +758,7 @@ domain:hzttwl.com
 domain:hzxjhs.com
 domain:hzyykjyxgs.xyz
 domain:hzzbhb.com
+domain:i-amtr.com
 domain:i4096.com
 domain:ibatty.com
 domain:ibnjl.shop
@@ -844,6 +853,7 @@ domain:jlvit.com
 domain:jlxc2001.com
 domain:jlxhr.com
 domain:jm3app.com
+domain:jmqux.com
 domain:jnhenglida.com
 domain:jnpuz.com
 domain:jnsjz.com
@@ -893,6 +903,7 @@ domain:kiwiot.com
 domain:kkjishu.com
 domain:kkmm.com
 domain:kldshkj.com
+domain:klinecharts.com
 domain:kmaosmart.com
 domain:kmksy.com
 domain:koebpmhcce.com
@@ -953,6 +964,7 @@ domain:lubair.com
 domain:luchengxi.com
 domain:luckin.com
 domain:luckyuyin.com
+domain:lunprin.com
 domain:luozhinet.com
 domain:lxqrmyy.com
 domain:lxtenance.com
@@ -1202,6 +1214,7 @@ domain:rhino.auto
 domain:rhrlawyer.com
 domain:rizhaolanhua.com
 domain:rjqcfw.com
+domain:rlkrmx.com
 domain:rmlinking.com
 domain:rnote.com
 domain:roaderp.com
@@ -1370,6 +1383,7 @@ domain:tencentedge.com
 domain:tendiak.com
 domain:tenfu.com
 domain:tensant.hk
+domain:teodns.com
 domain:terrabbs.ink
 domain:tesegu.com
 domain:tgalileo.com
@@ -1451,6 +1465,7 @@ domain:uwayparking.com
 domain:v3x9.com
 domain:vasen.com
 domain:vazton.com
+domain:vfxfu.com
 domain:vip-cdn.com
 domain:vip88-ssss-tttt-yyyy-sssss-ddddd-vip999.com
 domain:vip98111.com
