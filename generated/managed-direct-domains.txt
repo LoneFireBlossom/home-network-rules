@@ -393,6 +393,7 @@ domain:codebuddy.ai
 domain:codesana.com
 domain:cookicut.com
 domain:cool-pi.com
+domain:corexpertdata.com
 domain:coreyun.net
 domain:cotenhao31.net
 domain:cpwxw.net
@@ -1289,6 +1290,7 @@ domain:shuxie.com
 domain:shws.com
 domain:sinopharm-yz.com
 domain:sinothaizone.com
+domain:siriser.com
 domain:sisiim.com
 domain:sjchess.com
 domain:sjez.com
@@ -1301,6 +1303,7 @@ domain:skr003.cc
 domain:sktqkf.com
 domain:skxvc.com
 domain:skym.asia
+domain:slldbs641.vip
 domain:slyz.net
 domain:smh.cc
 domain:smzimu.com
