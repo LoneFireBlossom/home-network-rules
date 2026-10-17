@@ -130,6 +130,7 @@ domain:9917wan.com
 domain:9999jt.com
 domain:99cx.net
 domain:9e.gs
+domain:9fe06a.fyi
 domain:9wtd.com
 domain:9yaoyao.com
 domain:a6api.com
@@ -446,6 +447,7 @@ domain:dingyunwl.com
 domain:diqcdbc.com
 domain:dircleaner.com
 domain:distinctech.com
+domain:dittocdn.com
 domain:diybuy.net
 domain:djhdhs.us
 domain:djjlgs.com
@@ -453,6 +455,7 @@ domain:djsnm.app
 domain:dljinfeng.com
 domain:dm84.tv
 domain:dnbiz.com
+domain:dns.lat
 domain:dnsjp.cc
 domain:dnsjxla.com
 domain:dnski.com
@@ -588,6 +591,7 @@ domain:gongniukaiguan.net
 domain:gongqq.com
 domain:gongyi.center
 domain:gqyvyq.com
+domain:grboi.com
 domain:grtfsbw.com
 domain:grz-hx.com
 domain:gua9.com
@@ -1147,6 +1151,7 @@ domain:pwccn.com
 domain:pxhvc.com
 domain:pxlmxx.com
 domain:pyamc.com
+domain:pyquan.com
 domain:pyrc.net
 domain:pzhsz.com
 domain:pzzgsj.com
@@ -1270,6 +1275,7 @@ domain:shaobin-jiang.com
 domain:shchengfengbj.com
 domain:shdjnet.com
 domain:shejilogo.com
+domain:shengtai.cyou
 domain:shengtiangames.com
 domain:shenwenai.com
 domain:shenyangbus.com
@@ -1385,6 +1391,7 @@ domain:tencentbuddy.com
 domain:tencentedge.com
 domain:tendiak.com
 domain:tenfu.com
+domain:tengcanxi.com
 domain:tensant.hk
 domain:teodns.com
 domain:terrabbs.ink
@@ -1566,6 +1573,7 @@ domain:xesim.net
 domain:xfmgs.com
 domain:xfxww.com
 domain:xghbdsq.com
+domain:xhlylx.com
 domain:xhs.cn
 domain:xhscdn.cn
 domain:xhscdn.com
