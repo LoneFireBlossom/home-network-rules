@@ -1370,6 +1370,8 @@ domain:szftcia.com
 domain:szkke.com
 domain:szrjyx.com
 domain:sztopten.com
+domain:szu.app
+domain:szu.moe
 domain:szzgst.com
 domain:t-machine.biz
 domain:tahkxny.com
